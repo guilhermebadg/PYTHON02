@@ -11,3 +11,5 @@ O Python nos auxiliou a extrair informações relevantes do banco de dados da em
 - Tratamento de dados;
 - Gráficos em Python (utilizando a biblioteca Plotly);
 - Tabelas (DataFrames - estrutura de dados bidimensional em forma de tabelas).
+
+  ![image](https://user-images.githubusercontent.com/102738385/181867152-f19f773f-29dd-4111-8573-1de3a1fe9529.png) 
